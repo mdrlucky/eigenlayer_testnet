@@ -3,5 +3,5 @@
   "website": "na.xyz",
   "description": "Nice operator",
   "logo": "https://raw.githubusercontent.com/Layr-Labs/eigenlayer-cli/master/pkg/operator/config/logo.png",
-  "twitter": "@mytwitterniceday"
+  "twitter": "https://x.com/example"
 }
